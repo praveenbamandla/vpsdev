@@ -15,7 +15,7 @@ Install softwares:
 apt-get update
 apt-get install ufw build-essential libssl-dev 
                 xvfb fluxbox x11vnc x11-xkb-utils xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic
-                xserver-xorg-core curl firefox cron python 
+                xserver-xorg-core curl firefox cron python xfe xfce4-terminal
                     
 apt-get install -f
 
