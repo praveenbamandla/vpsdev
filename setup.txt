@@ -16,6 +16,7 @@ apt-get update
 apt-get install ufw build-essential libssl-dev 
                 xvfb fluxbox x11vnc x11-xkb-utils xfonts-100dpi xfonts-75dpi xfonts-scalable xfonts-cyrillic
                 xserver-xorg-core curl firefox cron python xfe xfce4-terminal
+		default-jre php5-curl php5-cli vim-gtk
                     
 apt-get install -f
 
