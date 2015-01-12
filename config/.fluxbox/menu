@@ -1,4 +1,6 @@
 [begin] (fluxbox)
 [include] (/etc/X11/fluxbox/fluxbox-menu)
 [exec] (Firefox) {firefox}
+[exec] (Files - XFE) {xfe}
+[exec] (Terminal) {x-terminal-emulator -T "Bash" -e /root/.fluxbox/env.sh}
 [end]
