@@ -3,4 +3,5 @@
 [exec] (Firefox) {firefox}
 [exec] (Files - XFE) {xfe}
 [exec] (Terminal) {x-terminal-emulator -T "Bash" -e /root/.fluxbox/env.sh}
+[exec] (Reboot) {/sbin/reboot}
 [end]
